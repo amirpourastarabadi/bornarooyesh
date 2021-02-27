@@ -30,7 +30,6 @@
 </head>
 <body>
 <div class="container-fluid">
-
     <!-- navbar -->
     <h5> <span class="badge bg-secondary mt-2">                    021-22998856
 
@@ -69,7 +68,9 @@
             </div>
         </div>
     </nav>
+</div>
 
+<div class="container">
     {{--    slider--}}
     <div id="carouselExampleCaptions" class="carousel slide mt-4" data-bs-ride="carousel">
         <div class="carousel-indicators">
@@ -129,7 +130,8 @@
 
         </div>
     </div>
-
+</div>
+    <div class="container-fluid mt-4">
 
     {{--    footer--}}
     <div class="footer">
